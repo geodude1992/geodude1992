@@ -22,7 +22,8 @@
 ⚡ Fun fact **Geodude**
 
  </div>
- 
+
+<!--GMAIL LINKEDIN PORTFOLIO LINKS-->
 <div align="center"> 
   <a href="mailto:jovanni.garcia909@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -36,13 +37,16 @@
 </div>
 
  <hr/>
+
  
+<!--SKILLS ICONS-->
+<!--https://skillicons.dev/-->
 <h2 align="center">⚒️ Programming Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,cpp,swift,java,cs,js,kotlin" />
-    <h2 align="center">⚒️ Tools ⚒️</h2>
-    <img src="https://skillicons.dev/icons?i=visualstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=py,cpp,swift,java,cs,js,kotlin, " />
+    <h2 align="center">⚒️ Arsenal ⚒️</h2>
+    <img src="https://skillicons.dev/icons?i=visualstudio,gamemakerstudio,androidstudio,pycharm,clion,vscode,windows,apple,linux,raspberrypi,arduino,bitbucket,HTML,CSS,discord,docker,figma,jenkins,powershell,sklearn, " /><br>
 </div>
 
 <br/>
