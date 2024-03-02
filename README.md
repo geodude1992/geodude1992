@@ -1,4 +1,4 @@
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=geodude1992.geodude1992" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=geodude1992.geodude1992" />
 <!--
 **geodude1992/geodude1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
