@@ -76,7 +76,7 @@
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=geodude1992&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: ambient_gradient)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=geodude1992&show_icons=true"
