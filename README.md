@@ -45,8 +45,10 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,cpp,swift,java,cs,js,kotlin " />
-    <h2 align="center">⚒️ Arsenal ⚒️</h2>
-    <img src="https://skillicons.dev/icons?i=visualstudio,gamemakerstudio,androidstudio,pycharm,clion,vscode,windows,apple,linux,raspberrypi,arduino,bitbucket,html,css,discord,docker,figma,jenkins,powershell,sklearn" /><br>
+    
+<h2 align="center">⚒️ Arsenal ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=visualstudio,gamemakerstudio,androidstudio,idea,pycharm,clion,vscode,windows,apple,linux,raspberrypi,arduino,github,bitbucket,html,css,discord,docker,figma,jenkins,powershell,sklearn" /><br>
 </div>
 
 <br/>
