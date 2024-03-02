@@ -44,9 +44,9 @@
 <h2 align="center">⚒️ Programming Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,cpp,swift,java,cs,js,kotlin, " />
+    <img src="https://skillicons.dev/icons?i=py,cpp,swift,java,cs,js,kotlin " />
     <h2 align="center">⚒️ Arsenal ⚒️</h2>
-    <img src="https://skillicons.dev/icons?i=visualstudio,gamemakerstudio,androidstudio,pycharm,clion,vscode,windows,apple,linux,raspberrypi,arduino,bitbucket,HTML,CSS,discord,docker,figma,jenkins,powershell,sklearn, " /><br>
+    <img src="https://skillicons.dev/icons?i=visualstudio,gamemakerstudio,androidstudio,pycharm,clion,vscode,windows,apple,linux,raspberrypi,arduino,bitbucket,html,css,discord,docker,figma,jenkins,powershell,sklearn" /><br>
 </div>
 
 <br/>
