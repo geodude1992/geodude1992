@@ -75,12 +75,12 @@
 <!--Anuraghazra/readme stats-->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=geodude1992&show_icons=true&theme=ambient_gradient"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: ambient_gradient)"
+    srcset="https://github-readme-stats.vercel.app/api?username=geodude1992&show_icons=true&theme=ambient_gradient&border_radius=15"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=geodude1992&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: ambient_gradient)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=geodude1992&show_icons=true" />
 </picture>
