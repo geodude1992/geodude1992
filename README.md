@@ -62,7 +62,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-geodude1992.vercel.app/?user=geodude1992&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=geodude1992&theme=radical&border_radius=15&mode=weekly&card_width=500" alt="GitHub Streak" /></a>
+    
   <img width=390 src="https://github-readme-stats-geodude1992.vercel.app/api?username=geodude1992&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-geodude1992.vercel.app/api/top-langs/?username=geodude1992&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
