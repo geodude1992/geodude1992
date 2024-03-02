@@ -82,10 +82,10 @@
     srcset="https://github-readme-stats.vercel.app/api?username=geodude1992&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=geodude1992&show_icons=true" />
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=geodude1992&show_icons=true" />
 </picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geodude1992&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img  align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=geodude1992&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
 
