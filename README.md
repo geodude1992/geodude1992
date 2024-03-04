@@ -7,19 +7,21 @@
 </h1>
 
 <!--Title-->
-<h3 align="center">A Software Engineer, Mathematician, Game Developer based in California</h3>
+<h3 align="center">A Software Engineer, Mathematician, and Game Developer based in California</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on a **Megaman Clone, Apex Legends Movement Tech Guide mobile app**
- 
- 🌱 I’m currently learning **Game Maker and Web Dev**
 
-💬 Ask me about *Algorithms, Game development, EDM... or anything [here](https://github.com/geodude1992/geodude1992/issues)**
+ 🎓 I graduated from **Long Beach State University**
+ 
+ 💪🏼 I’m currently working on a **Megaman Clone, Apex Legends Movement Tech Guide mobile app**
+ 
+ 📝 I’m currently learning **Game Maker and Web Dev**
+ 
+ 💬 Ask me about *Algorithms, Game development, EDM... or anything [here](https://github.com/geodude1992/geodude1992/issues)**
 
-⚡ Fun fact **Geodude**
+ ⚡ Fun fact **Geodude is commonly found in the Rock Tunnel and Mt. Moon in Pokemon Red, Blue, and Yellow.**
 
  </div>
 
