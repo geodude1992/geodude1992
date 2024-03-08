@@ -92,9 +92,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=geodude1992&show_icons=true" />
 </picture>
-<be>
-<div align="center">
-**Note: Private repos are not included**
+<br>
+<h1div align="center">**Note: Private repos are not included**<h1/>
 <!--Most Used languages-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geodude1992&theme=ambient_gradient&langs_count=8&layout=compact&theme=react&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
