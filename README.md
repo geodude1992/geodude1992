@@ -53,7 +53,7 @@
     
 <h2 align="center">⚒️ Arsenal ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=visualstudio,gamemakerstudio,androidstudio,idea,pycharm,clion,windows,apple,linux,raspberrypi,arduino,github,bitbucket,jenkins,docker,html,css,figma,powershell,sklearn&perline=3" /><br>
+    <img src="https://skillicons.dev/icons?i=visualstudio,gamemakerstudio,androidstudio,idea,pycharm,clion,windows,apple,linux,raspberrypi,arduino,postgres,github,bitbucket,jenkins,docker,html,css,figma,powershell,sklearn&perline=3" /><br>
 </div>
 
 <br/>
