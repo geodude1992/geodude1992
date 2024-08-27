@@ -12,7 +12,6 @@
 <br/>
 
 <div align="center">
-
  🎓 I graduated from **Long Beach State University**
  
  💪🏼 I’m currently working on an **Apex Legends 2D Platformer fan game inspired by Megaman X, Portfolio Website, and an Apex Legends Movement Tech Guide iOS App**
@@ -22,8 +21,7 @@
  💬 Ask me about *Algorithms, Game development, EDM... or anything [here](https://github.com/geodude1992/geodude1992/issues)**
 
  ⚡ Fun fact **Geodude is commonly found in the Rock Tunnel and Mt. Moon in Pokemon Red, Blue, and Yellow.**
-
- </div>
+</div>
 
 <!--GMAIL LINKEDIN PORTFOLIO LINKS-->
 <div align="center"> 
@@ -64,10 +62,8 @@
 <!-- SNAKE CONTRIBUTIONS -->
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/geodude1992/geodude1992/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
@@ -99,17 +95,4 @@
 <h4 align="center">**Note: Private repos are not included below**<h4/>
 <!--Most Used languages-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geodude1992&theme=ambient_gradient&langs_count=10&hide=Yacc,GLSL&layout=compact&theme=react&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-
-
 </div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-
-
-<br/>
-
