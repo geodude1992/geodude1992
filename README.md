@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
- 🎓 I graduated from *Long Beach State University*
+ 🎓 I graduated from **Long Beach State University**
  
  💪🏼 I’m currently working on an **Apex Legends 2D Platformer fan game inspired by Megaman X, Portfolio Website, and an Apex Legends Movement Tech Guide iOS App**
  
