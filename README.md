@@ -1,6 +1,7 @@
 <!--Visitors badge-->
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=geodude1992.geodude1992" />
 
+
 <!--Intro Animation-->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=You+encountered+;+a+wild+GEODUDE!;" />
@@ -14,7 +15,7 @@
 <div align="center">
  🎓 I graduated from **Long Beach State University**
  
- 💪🏼 I’m currently working on an **Apex Legends 2D Platformer fan game inspired by Megaman X, Portfolio Website, a Neon Genesis Evangelion GameBoy game, and an Apex Legends Movement Tech Guide iOS App**
+ 💪🏼 I’m currently working on an **Apex Legends 2D Platformer fan game inspired by Megaman X, Portfolio Website, Neon Genesis Evangelion GameBoy game, Apex Legends Movement Tech Guide iOS App**
  
  📝 I’m currently learning **Game Maker and Web Dev**
  
