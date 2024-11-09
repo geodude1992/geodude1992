@@ -21,7 +21,7 @@
  
  💬 Ask me about *Algorithms, Game development, EDM... or anything [here](https://github.com/geodude1992/geodude1992/issues)*
 
- ⚡ Fun fact **Geodude is commonly found in the Rock Tunnel and Mt. Moon in Pokemon Red, Blue, and Yellow.**
+ ⚡ Fun fact **Geodude is commonly found in the Rock Tunnel and Mt. Moon in Pokemon Red, Blue, Green, and Yellow.**
 </div>
 
 <!--GMAIL LINKEDIN PORTFOLIO LINKS-->
