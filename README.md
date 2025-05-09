@@ -47,7 +47,7 @@
 <h2 align="center">⚒️ Programming Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,cpp,swift,java,cs,js,kotlin " />
+    <img src="https://skillicons.dev/icons?i=cpp,swift,java,py,cs,kotlin " />
     
 <h2 align="center">⚒️ Arsenal ⚒️</h2>
 <div align="center">
