@@ -13,11 +13,11 @@
 <br/>
 
 <div align="center">
- 🎓 I graduated from **Long Beach State University**
+ 🎓 I graduated from Long Beach State University
  
- 💪🏼 I’m currently working on an **Apex Legends 2D Platformer fan game inspired by Megaman X, Portfolio Website, Neon Genesis Evangelion GameBoy game, Apex Legends Movement Tech Guide iOS App**
+ 💪🏼 I’m currently working on an **Apex Legends 2D Platformer fan game inspired by Megaman X, Portfolio Website, Neon Genesis Evangelion GameBoy game**
  
- 📝 I’m currently learning **Game Maker and Web Dev**
+ 📝 I’m currently learning **Linux, Raylib, Game Maker Studio**
  
  💬 Ask me about *Algorithms, Game development, EDM... or anything [here](https://github.com/geodude1992/geodude1992/issues)*
 
