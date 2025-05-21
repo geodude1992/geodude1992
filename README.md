@@ -48,11 +48,11 @@
 <h2 align="center">⚒️ Programming Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,swift,java,py,cs,kotlin " />
+    <img src="https://skillicons.dev/icons?i=cpp,swift,java,py" />
     
 <h2 align="center">⚒️ Arsenal ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=visualstudio,gamemakerstudio,androidstudio,idea,pycharm,clion,windows,apple,linux,raspberrypi,arduino,postgres,github,bitbucket,jenkins,docker,html,css,figma,powershell,sklearn&perline=6" /><br>
+    <img src="https://skillicons.dev/icons?i=visualstudio,gamemakerstudio,pycharm,clion,windows,apple,linux,raspberrypi,arduino,postgres,github,bitbucket,html,css,figma,sklearn&perline=6" /><br>
 </div>
 
 <br/>
