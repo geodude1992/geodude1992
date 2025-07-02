@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
- 🎓 I graduated from Long Beach State University
+ 🎓 I graduated from California State University Long Beach
  
  💪🏼 I’m currently working on an **Apex Legends 2D Platformer fan game inspired by Megaman X, Portfolio Website, Neon Genesis Evangelion GameBoy game**
  
